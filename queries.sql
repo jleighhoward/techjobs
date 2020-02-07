@@ -1,6 +1,5 @@
 ## Part 1: Test it with SQL
-SELECT column_names, data_types
-    FROM techjobs
+SHOW COLUMN from job
 
 ## Part 2: Test it with SQL
 select name from employer where
